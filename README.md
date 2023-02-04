@@ -5,3 +5,7 @@ This is a Python implementation of the procedure described in the paper "An easi
 
 $$
 H_0(A) := \sup_{u\in \mathbb{R}^n \setminus P} \frac{\text{dist}(u,P)}{\text{dist}(Au, \mathbb{R}^m_-)}.$$  
+
+The main procedure is implemented in the file "boundHHoffman.py".
+
+The notebook "BoundHHoffman.ipynb" includes some illustrative examples.
