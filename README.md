@@ -1,5 +1,5 @@
 # boundHHoffman
-Suppose $A\in \mathbb{R}^{m\times n}\setminus \{0\}$ and $P:=\{x:Ax\le 0\}$.
+Suppose $A\in \mathbb{R}^{m\times n}\setminus \\{0\\}$ and $P:=\\{x:Ax\le 0\\}$.
 
 This is a Python implementation of the procedure described in the paper "An easily computable upper bound on the Hoffman constant for homogeneous inequality systems" to compute an upper bound on the following *homogeneous Hoffman constant:*
 
